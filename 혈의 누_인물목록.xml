@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>혈의 누 인물목록</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>공개용으로 게시됨.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>발제용으로 생성함.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+        <person xml:id="person-KOR">
+          <persName>김옥련</persName>
+          </person>
+        <person xml:id="person-CCA">
+          <persName>최춘애</persName>
+        <person xml:id="person-KGI">
+          <persName>김관일</persName>  
+        <person xml:id="person-JS">
+          <persName>정상</persName>
+         <person xml:id="person-JSW">
+          <persName>정상 부인</persName> 
+          <person xml:id="person-KWS">
+          <persName>구완서</persName> 
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>
