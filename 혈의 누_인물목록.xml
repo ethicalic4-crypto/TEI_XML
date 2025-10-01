@@ -37,7 +37,8 @@
           <persName type="본명1">정상</persName>
         </person>
         <person xml:id="person-JSW">
-          <persName type="본명1">정상 부인</persName>
+          <persName type="본명1">정상의 아내</persName>
+          <persName type="호칭1">부인</persName>
         </person>
         <person xml:id="person-KWS">
           <persName type="본명1">구완서</persName>
