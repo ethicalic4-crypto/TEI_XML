@@ -17,32 +17,32 @@
     <body>
       <listPerson>
         <person xml:id="person-KOR">
-          <persName type="본명1">김옥련</persName>
-          <persName type="호칭1">옥련</persName>
+          <persName type="본명">김옥련</persName>
+          <persName type="호칭">옥련</persName>
         </person>
         <person xml:id="person-CCA">
-          <persName type="본명1">최춘애</persName>
-          <persName type="본명2">춘애</persName>
-          <persName type="호칭1">부인</persName>
-          <persName type="호칭2">아내</persName>
-          <persName type="호칭3">어머니</persName>
+          <persName type="본명">최춘애</persName>
+          <persName type="호칭">춘애</persName>
+          <persName type="호칭">부인</persName>
+          <persName type="호칭">아내</persName>
+          <persName type="호칭">어머니</persName>
         </person>
         <person xml:id="person-KGI">
-          <persName type="본명1">김관일</persName>
-          <persName type="호칭1">남편</persName>
-          <persName type="호칭2">김씨</persName>
-          <persName type="호칭3">낭군</persName>
+          <persName type="본명">김관일</persName>
+          <persName type="호칭">남편</persName>
+          <persName type="호칭">김씨</persName>
+          <persName type="호칭">낭군</persName>
         </person>
         <person xml:id="person-JS">
-          <persName type="본명1">정상</persName>
+          <persName type="본명">정상</persName>
         </person>
         <person xml:id="person-JSW">
-          <persName type="본명1">정상의 아내</persName>
-          <persName type="호칭1">부인</persName>
+          <persName type="대표이름">정씨 부인</persName>
+          <persName type="호칭">정상 부인</persName>
         </person>
         <person xml:id="person-KWS">
-          <persName type="본명1">구완서</persName>
-          <persName type="호칭1">구씨</persName>
+          <persName type="본명">구완서</persName>
+          <persName type="호칭">구씨</persName>
         </person>
       </listPerson>
     </body>
