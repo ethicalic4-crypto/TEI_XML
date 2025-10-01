@@ -21,9 +21,9 @@
           <persName type="호칭">옥련</persName>
         </person>
         <person xml:id="person-CCA">
+          <persName type="호칭">부인</persName>
           <persName type="본명">최춘애</persName>
           <persName type="호칭">춘애</persName>
-          <persName type="호칭">부인</persName>
           <persName type="호칭">아내</persName>
           <persName type="호칭">어머니</persName>
         </person>
