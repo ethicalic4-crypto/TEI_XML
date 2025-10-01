@@ -17,7 +17,8 @@
     <body>
       <listPerson>
         <person xml:id="person-KOR">
-          <persName>김옥련</persName>
+          <persName type="본명1">김옥련</persName>
+          <persName type="호칭1">옥련</persName>
         </person>
         <person xml:id="person-CCA">
           <persName type="본명1">최춘애</persName>
@@ -33,13 +34,13 @@
           <persName type="호칭3">낭군</persName>
         </person>
         <person xml:id="person-JS">
-          <persName>정상</persName>
+          <persName type="본명1">정상</persName>
         </person>
         <person xml:id="person-JSW">
-          <persName>정상 부인</persName>
+          <persName type="본명1">정상 부인</persName>
         </person>
         <person xml:id="person-KWS">
-          <persName>구완서</persName>
+          <persName type="본명1">구완서</persName>
           <persName type="호칭1">구씨</persName>
         </person>
       </listPerson>
