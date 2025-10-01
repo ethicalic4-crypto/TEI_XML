@@ -36,10 +36,6 @@
         <person xml:id="person-JS">
           <persName type="본명">정상</persName>
         </person>
-        <person xml:id="person-JSW">
-          <persName type="대표이름">정씨 부인</persName>
-          <persName type="호칭">정상 부인</persName>
-        </person>
         <person xml:id="person-KWS">
           <persName type="본명">구완서</persName>
           <persName type="호칭">구씨</persName>
